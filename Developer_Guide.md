@@ -3,7 +3,13 @@
 <!-- `npm run dev` -->
 
 ```
-If first time
+Very Very First time
+install yarn first
+npm install --global yarn
+```
+
+```
+If first time in day (pull first)
 $ yarn
 
 To start the development on local server
